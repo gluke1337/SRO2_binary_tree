@@ -75,3 +75,4 @@ print("Структура дерева:")
 tree.print_tree(tree.root)
 
 tree.draw_tree()
+# Конец программы
